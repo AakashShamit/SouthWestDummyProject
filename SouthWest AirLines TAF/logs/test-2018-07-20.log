@@ -1,0 +1,46 @@
+01:20:27.509 DEBUG BaseTestClass -Debug logs printed
+01:21:17.168 DEBUG BaseTestClass -Debug logs printed
+02:17:18.572 INFO  BaseTestClass -Chromedriver launched!!
+02:17:19.795 INFO  BaseTestClass -Browser window maximized!!
+02:17:19.842 INFO  BaseTestClass -Cookies deleted!!
+02:24:19.691 INFO  BaseTestClass -Chromedriver launched!!
+02:24:20.871 INFO  BaseTestClass -Browser window maximized!!
+02:24:20.932 INFO  BaseTestClass -Cookies deleted!!
+02:24:29.044 INFO  BaseTestClass -Southwest airlines website opened
+02:24:29.051 INFO  NewTest -Mummy
+02:24:32.327 INFO  BaseTestClass -Browser Closed
+02:56:26.246 INFO  BaseTestClass -Chromedriver launched!!
+02:56:27.429 INFO  BaseTestClass -Browser window maximized!!
+02:56:27.500 INFO  BaseTestClass -Cookies deleted!!
+02:56:40.149 INFO  BaseTestClass -Southwest airlines website opened
+02:56:40.329 INFO  VerificationAndValidation -Log in displayed successfully on Webpage
+02:56:40.331 INFO  NewTest -message random h
+02:56:43.440 INFO  BaseTestClass -Browser Closed
+06:24:11.745 INFO  BaseTestClass -Chrome Browser launched!!
+06:24:12.982 INFO  BaseTestClass -Browser window maximized!!
+06:24:13.035 INFO  BaseTestClass -Cookies deleted!!
+06:24:21.488 INFO  BaseTestClass -Southwest airlines website opened
+06:24:21.613 INFO  VerificationAndValidation -Log in displayed successfully on Webpage
+06:24:21.615 INFO  NewTest -message random h
+06:24:24.514 INFO  BaseTestClass -Browser Closed
+06:29:54.461 INFO  BaseTestClass -Chrome Browser launched!!
+06:29:55.675 INFO  BaseTestClass -Browser window maximized!!
+06:29:55.715 INFO  BaseTestClass -Cookies deleted!!
+06:30:05.061 INFO  BaseTestClass -Southwest airlines website opened
+06:30:05.171 INFO  VerificationAndValidation -Log in displayed successfully on Webpage
+06:30:05.173 INFO  NewTest -message random h
+06:30:08.035 INFO  BaseTestClass -Browser Closed
+06:32:28.819 INFO  BaseTestClass -Chrome Browser launched!!
+06:32:30.034 INFO  BaseTestClass -Browser window maximized!!
+06:32:30.078 INFO  BaseTestClass -Cookies deleted!!
+06:32:38.494 INFO  BaseTestClass -Southwest airlines website opened
+06:32:38.611 INFO  VerificationAndValidation -Log in displayed successfully on Webpage
+06:32:38.611 INFO  NewTest -message random h
+06:32:41.484 INFO  BaseTestClass -Browser Closed
+14:54:52.739 INFO  BaseTestClass -Chrome Browser launched!!
+14:54:53.995 INFO  BaseTestClass -Browser window maximized!!
+14:54:54.494 INFO  BaseTestClass -Cookies deleted!!
+14:55:21.227 INFO  BaseTestClass -Southwest airlines website opened
+14:55:21.349 INFO  VerificationAndValidation -Log in displayed successfully on Webpage
+14:55:21.354 INFO  NewTest -message random h
+14:55:24.508 INFO  BaseTestClass -Browser Closed
