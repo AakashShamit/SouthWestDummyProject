@@ -1,0 +1,7 @@
+23:22:27.260 INFO  BaseTestClass -Chrome Browser launched!!
+23:22:28.538 INFO  BaseTestClass -Browser window maximized!!
+23:22:28.573 INFO  BaseTestClass -Cookies deleted!!
+23:22:39.490 INFO  BaseTestClass -Southwest airlines website opened
+23:22:39.615 INFO  VerificationAndValidation -Log in displayed successfully on Webpage
+23:22:39.617 INFO  NewTest -message random h
+23:22:42.706 INFO  BaseTestClass -Browser Closed
